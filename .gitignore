@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+fma/
+fma_metadata.zip
+fma_metadata/
+fma_small.zip
+fma_small_mp3/
+fma_small_wav/
+test/
